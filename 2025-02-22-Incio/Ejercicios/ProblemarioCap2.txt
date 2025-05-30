@@ -1,0 +1,82 @@
+🧪 Ejercicios de NumPy (Capítulo 2)
+1️⃣ Creación y manipulación de arrays
+✅ Crea los siguientes arrays:
+
+Un array de 1D con números del 0 al 9.
+Una matriz 3x3 de números aleatorios entre 0 y 1.
+Un array de números pares del 2 al 20 usando np.arange().
+✅ Transformaciones:
+
+Convierte un array 1D de tamaño 12 en una matriz de 3x4.
+Convierte una matriz 2D en un array de 1D.
+✅ Broadcasting:
+
+Crea una matriz 3x3 y súmale un valor constante de 5.
+Multiplica una matriz 3x3 por un vector de 3 elementos.
+
+2️⃣ Indexado y slicing
+✅ Accede a elementos específicos:
+Dado el array:
+
+python
+Copiar
+Editar
+arr = np.array([[1, 2, 3], 
+                [4, 5, 6], 
+                [7, 8, 9]])
+Extrae la segunda fila completa.
+Extrae la última columna completa.
+Selecciona el valor central (5).
+✅ Invertir orden:
+
+Invierte las filas y columnas de la matriz sin usar bucles.
+Extrae los números pares de la matriz.
+
+
+3️⃣ Operaciones matemáticas
+✅ Estadísticas básicas:
+
+Crea un array de 100 valores aleatorios entre 0 y 50.
+Calcula la media, mediana, desviación estándar y suma total.
+✅ Operaciones entre matrices:
+
+Crea dos matrices 3x3 y realiza:
+Suma
+Producto por elementos
+Producto matricial (@)
+
+
+4️⃣ Booleanos y comparación
+✅ Operaciones booleanas:
+
+Crea un array de 10 números entre 1 y 20.
+Encuentra los valores mayores que 10.
+Reemplaza todos los valores mayores que 15 con 0.
+✅ Máscaras booleanas:
+Dado:
+
+python
+Copiar
+Editar
+arr = np.array([3, 7, 2, 4, 9, 1])
+Crea una máscara que devuelva solo los números impares.
+5️⃣ Concatenación y división
+✅ Concatenación:
+
+Crea dos arrays: [1, 2, 3] y [4, 5, 6].
+Concaténalos en una sola matriz vertical y horizontalmente.
+✅ División:
+
+Divide un array de tamaño 12 en 3 partes iguales.
+6️⃣ Álgebra lineal
+✅ Propiedades de matrices:
+Dada la matriz:
+
+python
+Copiar
+Editar
+A = np.array([[2, 3], 
+              [5, 7]])
+Calcula la inversa de A.
+Calcula el determinante de A.
+Obtén los valores propios y vectores propios de A.

@@ -1,0 +1,22 @@
+🔹 NumPy
+Creación de Arrays:
+
+1. Crea un array de 1D con los números del 1 al 10.
+2. Genera una matriz de 3x3 con números aleatorios entre 0 y 1.
+3. Manipulación de Arrays:
+
+4. Crea un array de 10 ceros y cambia el quinto elemento a 1.
+5. Dado np.array([1, 2, 3, 4, 5]), convierte este array en una matriz 2D de forma (5,1).
+6. Operaciones Matemáticas:
+
+7. Crea un array de 10 números aleatorios y obtén su media, mediana y desviación estándar.
+8. Genera una matriz de 5x5 con valores enteros aleatorios entre 10 y 50 y encuentra el valor máximo y mínimo.
+Indexado y Slicing:
+
+9. Dada la matriz:
+python
+Copiar
+Editar
+A = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+Extrae la segunda columna.
+Invierte las filas de un array 2D sin usar un bucle explícito.
