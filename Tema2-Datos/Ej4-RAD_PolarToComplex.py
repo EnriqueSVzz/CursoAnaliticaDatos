@@ -1,1 +1,0 @@
-#transformar de Polar a la forma Binomial pero con radianes
