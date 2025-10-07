@@ -1,0 +1,5 @@
+Hola, mundo!
+Este es un archivo de ejemplo.
+Python es genial!
+Ejemplo de texto!
+Hola

@@ -1,0 +1,5 @@
+tipo,monto,descrip,categ
+I,100.0,Venta,Venta
+I,250.0,Venta,Venta
+I,300.0,Prestamo,Prestamo
+G,-150.0,Pago,Pago
