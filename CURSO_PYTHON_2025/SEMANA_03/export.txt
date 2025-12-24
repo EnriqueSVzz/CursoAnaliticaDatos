@@ -1,0 +1,8 @@
+1. Tipo: I, Monto: $100.0, Descripción: Venta, Categoría: Venta
+2. Tipo: I, Monto: $250.0, Descripción: Venta, Categoría: Venta
+3. Tipo: I, Monto: $300.0, Descripción: Prestamo, Categoría: Prestamo
+4. Tipo: G, Monto: $-150.0, Descripción: Pago, Categoría: Pago
+5. Tipo: I, Monto: $200.0, Descripción: Prestamo, Categoría: Prestamo
+6. Tipo: G, Monto: $-210.0, Descripción: Deuda, Categoría: Deuda
+7. Tipo: I, Monto: $400.0, Descripción: Venta, Categoría: Venta
+8. Tipo: G, Monto: $-50.0, Descripción: Deuda, Categoría: Deuda
