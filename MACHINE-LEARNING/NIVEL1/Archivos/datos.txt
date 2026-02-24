@@ -1,3 +1,0 @@
-Primera línea de texto.
-Segunda línea de texto.
-Tercera línea de texto.
